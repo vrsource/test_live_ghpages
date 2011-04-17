@@ -1,0 +1,11 @@
+The directory contains the externals deps we rely upon.  The are pulled in using one of two methods.
+
+Method 1
+========
+A directory containing a copy of the code at some point in time.
+This can be used for small projects that don't change, binaries, etc.
+
+
+Method 2
+========
+Git submodules.
