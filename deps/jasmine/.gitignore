@@ -1,0 +1,6 @@
+.idea/
+.svn/
+.DS_Store
+site/
+.bundle/
+.pairs
