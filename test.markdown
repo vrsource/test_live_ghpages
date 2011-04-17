@@ -1,3 +1,7 @@
+---
+title: Test Page.
+---
+
 Test of Markdown
 ================
 
